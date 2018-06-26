@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FootBall Club</string>
+    <string name="LeagueId">4335</string>
+    <string name="PastMatch">Past Match</string>
+    <string name="NextMatch">Next Match</string>
+    <string name="FavoriteMatch">Favorite Match</string>
+    <string name="no_data">Data tidak ditemukan</string>
+    <string name="vs">VS</string>
+    <string name="Goals">Goals</string>
+    <string name="Shots">Shots</string>
+    <string name="Lineup">Lineups</string>
+    <string name="Goalkeeper">Goal Keeper</string>
+    <string name="Defense">Defense</string>
+    <string name="Midfield">Midfield</string>
+    <string name="Forward">Forward</string>
+    <string name="Subtitute">Substitutes</string>
+    <string name="Favorites">Favorites</string>
+    <string name="Teams">Teams</string>
+    <string name="Past">Past Match</string>
+    <string name="title_activity_home">Football Club</string>
+    <string name="Next">Next Match</string>
+    <string name="Home">Home :</string>
+    <string name="Away">Away :</string>
+    <string name="Match">Match</string>
+    <string-array name="main">
+        <item>@string/PastMatch</item>
+        <item>Next Match</item>
+    </string-array>
+    <string name="favorites">Favorites</string>
+    <string name="teams">Teams</string>
+    <array name="league">
+        <item>English_Premier_League</item>
+        <item>English_League_Championship</item>
+        <item>German_Bundesliga</item>
+        <item>Italian_Serie_A</item>
+        <item>French_Ligue_1</item>
+        <item>Spanish_La_Liga</item>
+    </array>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_badge" type="id" />
+    <item name="MatchDate" type="id" />
+    <item name="NameHome" type="id" />
+    <item name="NameAway" type="id" />
+    <item name="Score" type="id" />
+    <item name="ScoreMatch" type="id" />
+    <item name="ScoreMatchHome" type="id" />
+    <item name="vs" type="id" />
+    <item name="ScoreMatchAway" type="id" />
+    <item name="FormationHome" type="id" />
+    <item name="FormationAway" type="id" />
+    <item name="GoalsHome" type="id" />
+    <item name="GoalsAway" type="id" />
+    <item name="ShotsHome" type="id" />
+    <item name="ShotsAway" type="id" />
+    <item name="GoalkeeperHome" type="id" />
+    <item name="GoalkeeperAway" type="id" />
+    <item name="DefenseAway" type="id" />
+    <item name="DefenseHome" type="id" />
+    <item name="MidfieldHome" type="id" />
+    <item name="MidfieldAway" type="id" />
+    <item name="ForwardHome" type="id" />
+    <item name="ForwardAway" type="id" />
+    <item name="SubstitutesHome" type="id" />
+    <item name="SubstitutesAway" type="id" />
+    <item name="item" type="id" />
+    <item name="ImgHome" type="id" />
+    <item name="ImgAway" type="id" />
+    <item name="ListMatch" type="id" />
+    <item name="past" type="id" />
+    <item name="next" type="id" />
+    <item name="viewpager" type="id" />
+    <item name="spinner" type="id" />
+    <item name="team_name" type="id" />
+    <item name="listEvent" type="id" />
+</resources>
